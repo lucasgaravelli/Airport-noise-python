@@ -12,4 +12,4 @@ FIRST challenge: upload files/clean database/fillna/indexes/etc.
 
 SECONT challenge: Calculate the total pop of each city, merging Basico_DF on Domicilio1_DF.
 
-THIRD challenge: Calculate pop exposed of each city and each range: 50DB, 55DB, until 85DB.
+THIRD challenge: Calculate pop exposed of each city and each range: 50DB, 55DB, until 85DB, merging second challenge on pop_exposed2020 and agregating.
